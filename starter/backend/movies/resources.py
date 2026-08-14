@@ -1,5 +1,5 @@
 from flask import jsonify
-from flask.views import MethodView
+from flask.views import MethodView 
 
 # Dummy database to hold movie examples
 movies = {
