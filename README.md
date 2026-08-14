@@ -1,5 +1,18 @@
 # Movie Picture Pipeline
 
+**GitHub Repository:** https://github.com/EduardoNicacio/Udacity_DevOps_for_ATCI_P1_Movie_Picture_Pipeline
+
+### CI/CD Workflow Runs
+
+| Workflow | Status | Link |
+|----------|--------|------|
+| Frontend CI | Passing | [View Run](https://github.com/EduardoNicacio/Udacity_DevOps_for_ATCI_P1_Movie_Picture_Pipeline/actions/workflows/frontend-ci.yaml) |
+| Frontend CD | Passing | [View Run](https://github.com/EduardoNicacio/Udacity_DevOps_for_ATCI_P1_Movie_Picture_Pipeline/actions/workflows/frontend-cd.yaml) |
+| Backend CI | Passing | [View Run](https://github.com/EduardoNicacio/Udacity_DevOps_for_ATCI_P1_Movie_Picture_Pipeline/actions/workflows/backend-ci.yaml) |
+| Backend CD | Passing | [View Run](https://github.com/EduardoNicacio/Udacity_DevOps_for_ATCI_P1_Movie_Picture_Pipeline/actions/workflows/backend-cd.yaml) |
+
+---
+
 You've been brought on as the DevOps resource for a development team that manages a web application that is a catalog of Movie Picture movies. They're in dire need of automating their development workflows in hopes of accelerating their release cycle. They'd like to use Github Actions to automate testing, building and deploying their applications to an existing Kubernetes cluster.
 
 The team's project is comprised of 2 applications.
