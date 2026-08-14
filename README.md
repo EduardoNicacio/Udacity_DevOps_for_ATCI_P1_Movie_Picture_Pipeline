@@ -1,11 +1,11 @@
 # Movie Picture Pipeline
 
-**GitHub Repository:** https://github.com/EduardoNicacio/Udacity_DevOps_for_ATCI_P1_Movie_Picture_Pipeline
+**GitHub Repository:** <https://github.com/EduardoNicacio/Udacity_DevOps_for_ATCI_P1_Movie_Picture_Pipeline>
 
 ### CI/CD Workflow Runs
 
 | Workflow | Status | Link |
-|----------|--------|------|
+| ---------- | -------- | ------ |
 | Frontend CI | Passing | [View Run](https://github.com/EduardoNicacio/Udacity_DevOps_for_ATCI_P1_Movie_Picture_Pipeline/actions/workflows/frontend-ci.yaml) |
 | Frontend CD | Passing | [View Run](https://github.com/EduardoNicacio/Udacity_DevOps_for_ATCI_P1_Movie_Picture_Pipeline/actions/workflows/frontend-cd.yaml) |
 | Backend CI | Passing | [View Run](https://github.com/EduardoNicacio/Udacity_DevOps_for_ATCI_P1_Movie_Picture_Pipeline/actions/workflows/backend-ci.yaml) |
