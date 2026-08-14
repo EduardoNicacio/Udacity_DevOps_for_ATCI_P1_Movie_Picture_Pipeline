@@ -5,7 +5,6 @@ WORKDIR /
 RUN adduser --uid 1000 --disabled-password --gecos "" app
 RUN apt-get update && \
   apt-get install -y --no-install-recommends \
-  libpcre3-dev \
   build-essential \
   gcc \
   libssl-dev \
